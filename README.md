@@ -17,6 +17,14 @@
       <h4>* apt install docker.io</h4>
       <h4>* systemctl start docker</h4>
       <hr>
+      <h1>deploying the project</h1>
+      <h4>* git clone (repository url)</h4>
+      <h4>* cd hrms_marolix (it will go inside the directory)</h4>
+      <h4>* after that write dockerfile</h4>
+      <h4>* docker build -t hrms . (it will create a image)</h4>
+      <h4>* pip install --upgrade pip(it will upgrade the pip package)</h4>
+      <h4>* docker run -itd --name python -p 8000:8000 imagename (it will create a container and also assign a port)</h4>
+      <h4>* final step is take the public ip and deploy it on chrome with the port 8000</h4>
     </body>
   </head>
 </html>
