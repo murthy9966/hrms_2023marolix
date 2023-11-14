@@ -25,6 +25,7 @@
       <h4>* pip install --upgrade pip(it will upgrade the pip package)</h4>
       <h4>* docker run -itd --name python -p 8000:8000 imagename (it will create a container and also assign a port)</h4>
       <h4>* final step is take the public ip and deploy it on chrome with the port 8000</h4>
+      <hr>
     </body>
   </head>
 </html>
