@@ -10,7 +10,7 @@
       <h4>* keypair: without keypair</h4>
       <h4>* Network settings ports has to be open: http,https,ssh,custom tcp:8000</h4>
       <hr>
-      
+      <h1>After connecting the instance we need to do below things</h1>
     </body>
   </head>
 </html>
