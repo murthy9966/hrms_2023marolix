@@ -13,7 +13,10 @@
       <h1>Packages has to be installed to deploy this project in local terminal</h1>
       <h4>* apt update -y (update the terminal)</h4>
       <h4>* apt install python3-pip (it will install both python and pip at a time)</h4>
-      <h4>* pip install django (it will install the django</h4>
+      <h4>* pip install django (it will install the django)</h4>
+      <h4>* apt install docker.io</h4>
+      <h4>* systemctl start docker</h4>
+      <hr>
     </body>
   </head>
 </html>
