@@ -17,5 +17,5 @@ WORKDIR /usr/src/app
 COPY . /usr/src/app
 RUN pip install --no-cache-dir -r requirements.txt
 RUN python manage.py migrate
-EXPOSE 8000
+EXPOSE 9090
 CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
